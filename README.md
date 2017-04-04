@@ -6,8 +6,11 @@ Introduction to Asyncio, presented at PyData Amsterdam 08/04/2017
 
 This repository contains the presentation used at the PyData conference in Amsterdam at April 8th in 2017:
 
-- ***img/***: contains the images used in the presentation
-- ***postgres/***: contains the postgres docker container used for the Marktplaats problem in the presentation
+Directories:
+- ***img***: contains the images used in the presentation
+- ***postgres***: contains the postgres docker container used for the Marktplaats problem in the presentation
+
+Files:
 - ***asyncio - main.ipynb***: The iPython notebook containing the presentation
 - ***environment.yml***: The requirements file for the python environment
 
